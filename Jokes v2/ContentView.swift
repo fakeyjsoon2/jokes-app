@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     
     let jokes = [
-        Joke(setup: "Why did the scarecrow win an award?", punchline: "Because it was out standing in its field!"),
+        Joke(setup: "Why did the scarecrow win an award?", punchline: "Because it was out standing in its field!!"),
         Joke(setup: "Why did the bicycle fall asleep?", punchline: "Because it was two tired!"),
     ]
     
